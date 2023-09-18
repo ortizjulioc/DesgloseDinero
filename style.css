@@ -1,0 +1,11 @@
+header {
+    background-color: rgb(31, 211, 151);
+}
+
+footer {
+margin-top: 150px;
+}
+
+.colorResultado {
+    text-shadow: 9px 10px 13px rgba(39, 112, 89, 0.92);
+}
